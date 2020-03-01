@@ -245,4 +245,4 @@ async def on_command_error(ctx, error):
     if isinstance(error, commands.MissingRequiredArgument):
         await ctx.send('Please Pass in all required arguments.')
 
-client.run('kid_your_token_here')
+client.run('_KF9j5_vouZ8ffInhbaF3MFxGf_fHbcj')
